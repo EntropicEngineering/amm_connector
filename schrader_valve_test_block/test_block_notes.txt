@@ -1,0 +1,7 @@
+Notes for schrader valve test block
+
+M8 threaded length:
+32mm
+
+M10 threaded length:
+34mm
